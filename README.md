@@ -3,7 +3,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=themoriarti)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on intergrating Cozystack PaaS to Proxmox
+- 🌱 I’m currently learning Go, Java
+- 👯 I’m looking to collaborate on proxmox, linbit stoage startaups
 
+[![roadmap.sh](https://roadmap.sh/card/tall/663a5ef0744b04c7edd2b5a1?variant=dark)](https://roadmap.sh) 
 <!--
 **themoriarti/themoriarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
