@@ -8,7 +8,7 @@
   - Devops is when you've automated everything to the point where you can now work on how to automate your automation;
   - Devops often joke that their job is to make sure nothing breaks, even when things have long been broken.
 
-- ⚡ Fun facts abount DevOps:
+- ⚡ Fun facts abount Platform Engineers:
   - Platform engineers are the ones who build such stable infrastructure that even hackers decide to go on vacation;
   - Platform Engineer: The person who makes everything so reliable that the servers start to get too comfortable and decide not to crash anymore;
   - Platform Engineers: Automating the creation of infrastructure so well that they start automating their automation.
