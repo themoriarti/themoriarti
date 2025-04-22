@@ -6,6 +6,15 @@
 
 [![roadmap.sh](https://roadmap.sh/card/tall/663a5ef0744b04c7edd2b5a1?variant=dark)](https://roadmap.sh) 
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=themoriarti&show_icons=true&count_private=true&hide=stars&hide_title=true&hide_rank=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themoriarti&layout=compact)
+
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=themoriarti&theme=github)
+
+
 <!--
 **themoriarti/themoriarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
